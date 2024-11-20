@@ -9,6 +9,7 @@ This project demonstrates the implementation of a simple linear regression model
 
 ## Dataset
 The dataset is sourced from Kaggle and includes advertising budgets for TV, radio, and newspapers along with the corresponding sales figures.
+**Kaggle Dataset Link**: [Advertising Sales Dataset](https://www.kaggle.com/datasets/yasserh/advertising-sales-dataset/data)
 
 ### Columns
 - `TV Ad Budget ($)`
