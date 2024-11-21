@@ -43,6 +43,5 @@ The dataset is sourced from Kaggle and includes advertising budgets for TV, radi
    ```bash
    git clone https://github.com/SerifeGokdas1/LineerRegression.git
    cd LineerRegression
-
    
-If you want to read more about the code and the steps involved in the project, you can check out [my Medium article](https://medium.com/@serifegokdaas/lineer-regresyon-f9e2e2124665).
+If you want to read more about the code and the steps involved in the project, you can check out [my Medium article](https://medium.com/@serifegokdaas/decision-tree-e33ff06879c2).
